@@ -1,6 +1,4 @@
 # Receipt-Processor-Webservice
-Take home exercise with the objective of making a receipt processing webservice
-
 
 -----------------INSTRUCTIONS-------------------
 
